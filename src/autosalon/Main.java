@@ -17,7 +17,7 @@ public class Main {
 
         Scanner in = new Scanner(System.in);
         while (true) {
-            System.out.println("1 - search cars by brand, 2 - filter clients by budget, 0 - exit");
+            System.out.println("=== Autosalon === 1 - brand, 2 - budget, 0 - exit");
             String cmd = in.hasNextLine() ? in.nextLine().trim() : "0";
             if (cmd.equals("0")) break;
             if (cmd.equals("1")) {
