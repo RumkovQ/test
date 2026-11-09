@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.0] - service
+### Added
+- SalonService: поиск автомобилей по марке, фильтрация клиентов по бюджету
+
 ## [0.1.0] - models
 ### Added
 - Классы-модели Car, Client, Order
