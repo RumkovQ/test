@@ -1,0 +1,13 @@
+# Скомпилированные файлы
+*.class
+out/
+bin/
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+# Логи и временные файлы
+*.log
+*.tmp
